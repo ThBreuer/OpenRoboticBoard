@@ -37,7 +37,7 @@ The board integrates the control electronics required to operate a robot. Sensor
 
 ![Board Overview](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-Overview.png)
 
-[Hardware Interface and Port Description](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-InterfaceSpezification.pdf)
+[Hardware Interface and Port Description](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-InterfaceSpezifikation.pdf)
 
 [Schematics](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Schematics.pdf)
 
