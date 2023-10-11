@@ -1,5 +1,5 @@
 # OpenRoboticBoard
-**An open source PCB to control simple robots**
+**An open source hardware and software package to control simple robots**
 
 ## Features
 
@@ -9,7 +9,7 @@ The board integrates the control electronics required to operate a robot. Sensor
   * 104 mm x 72 mm
 
 * **Power supply:**
-  * The board can be powerd by a 7.5V voltage source (battery or LiPo).
+  * The board can be powerd by a 7.4V voltage source (battery or LiPo).
 
 * **Sensor connections:**
   * 4 ports to connect sensors, each with a 5V power supply as well as 4 additional signal lines that can be used either as analog input (2x), digital IO (4x), UART or I2C interface. Alternatively, RJ-12 or 6-pin PCB header connector can be soldered in as a plug connection.
@@ -37,11 +37,11 @@ The board integrates the control electronics required to operate a robot. Sensor
 
 ![Board Overview](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-Overview.png)
 
-[Hardware Interface and Port Description](/Hardware/Ver-1.x/....pdf)
+[Hardware Interface and Port Description](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-InterfaceSpezification.pdf)
 
-[Schematics](/Hardware/Ver-1.x/Schematics.pdf)
+[Schematics](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/...pdf)
 
-[KiCAD project files](/Hardware/Ver-1.x)
+[KiCad project files](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/KiCad)
 
 ## Programming
 Of course, you can build software from the scratch. Once done, you can download and debug your software either with a bootloader via USB or with a debugger via the 6-pin SWD-connector.
