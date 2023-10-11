@@ -96,7 +96,7 @@ This app is usefull to handle a local application.
 
 * Download local applications (Windows version only)
 * Start and stop a local application
-* Virtual keyboard and text output fields as local applications I/O 
+* Virtual keyboard and text output fields as local application's I/O 
 * Configuration options
 
 ### ORB-WebView (Android-App)
@@ -106,7 +106,7 @@ This app executes Javascript based applications provided by an external HTTP ser
 * Configuration options
 * Built-in test site to check sensors and actuators
 
-[ORB-WebView: Javascript Interface](/Software/ORB-WebView/Doc/JavascriptInterface.pdf)
+[ORB-WebView: Javascript Interface]()
 
 ## Content of the OpenRoboticBoard's Repositories
 
