@@ -111,8 +111,8 @@ This app executes Javascript based applications provided by an external HTTP ser
 ## Content of the OpenRoboticBoard's Repositories
 
 * [`ORB-Hardware`](https://github.com/ThBreuer/ORB-Hardware): Schematics, CAD
-* [`ORB-Firmware`](https://github.com/ThBreuer): A firmware for the ORB
-* [`ORB-Application`](https://github.com/ThBreuer): Template to create own Applications for the ORB
-* [`ORB-Monitor_Windows`](https://github.com/ThBreuer): Windows-Application monitoring the ORB (Local Application) 
-* [`ORB-Monitor_Android`](https://github.com/ThBreuer): Android-Application monitoring the ORB (Local Application)
-* [`ORB-WebView`](https://github.com/ThBreuer): Android-Application with a Javascript Interface to te ORB
+* [`ORB-Firmware`](https://github.com/ThBreuer/ORB-Firmware): A firmware for the ORB
+* [`ORB-Application`](https://github.com/ThBreuer/ORB-Application): Template to create own Applications for the ORB
+* [`ORB-Monitor_Windows`](https://github.com/ThBreuer/ORB-Monitor_Windows): Windows-Application monitoring the ORB (Local Application) 
+* [`ORB-Monitor_Android`](https://github.com/ThBreuer/ORB-Monitor_Android): Android-Application monitoring the ORB (Local Application)
+* [`ORB-WebView_Android`](https://github.com/ThBreuer/ORB-WebView_Android): Android-Application with a Javascript Interface to the ORB
