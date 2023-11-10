@@ -31,13 +31,13 @@ The board integrates the control electronics required to operate a robot. Sensor
   * SWD debug interface
 
 * **User interface:**
-  * 2 push buttons
+  * 1 push buttons
   * 3 LEDs
   * 1 main switch
 
 ![Board Overview](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-Overview.png)
 
-[Hardware Interface and Port Description](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-InterfaceSpezifikation.pdf)
+[Hardware Interface and Port Description](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Hardware-InterfaceSpezification.pdf)
 
 [Schematics](https://github.com/ThBreuer/ORB-Hardware/blob/main/Ver-01.xx/Doc/Schematics.pdf)
 
