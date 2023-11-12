@@ -72,11 +72,14 @@ The firmware provides various services:
   * Emulated button input and text output via USB/Bluetooth
 
 #### Update the Firmware
-The firmware can be updated via USB, see [Firmware Update](???)
+The firmware can be updated via USB.
 
 #### Start-up
 * Power ORB with battery or LiPo. The red LED (voltage indicator) is flashing
 * Connect ORB with external device (Windows-PC, Android-Device) by USB or pair as Bluetooth device. In case of Bluetooth connected: a red LED near of the Bluetooth module is flashing twice.
+
+#### Documentation
+See [Firmware Specification](https://github.com/ThBreuer/ORB-Firmware/blob/main/Doc/Firmware-Specification.pdf)
 
 ### Local Application
 The local application is a software, which can be loaded with the `ORB-Monitor (Windows)` to the ORB flash memory. Once loaded, the local application can be started/stopped by pressing a button either on the ORB or on the `ORB-Monitor`.
