@@ -79,15 +79,15 @@ The firmware can be updated via USB, see [Firmware Update](???)
 * Connect ORB with external device (Windows-PC, Android-Device) by USB or pair as Bluetooth device. In case of Bluetooth connected: a red LED near of the Bluetooth module is flashing twice.
 
 ### Local Application
-The local aplication is a software, which can be loaded with the `ORB-Monitor (Windows)` to the ORB flash memory. Once loaded, the local application can be started/stopped by pressing a button either on the ORB or on the `ORB-Monitor`.
+The local application is a software, which can be loaded with the `ORB-Monitor (Windows)` to the ORB flash memory. Once loaded, the local application can be started/stopped by pressing a button either on the ORB or on the `ORB-Monitor`.
 The local application can use the firmware API to read sensors or to set motor and servo actions. Furthermore, the local application can receive key events from the virtual keyboard of the `ORB-Monitor` or can send text strings to the text field of the `ORB-Monitor`.
 
-[ORB-Firmware: Local Application API]()
+[ORB-Firmware: Local Application API](https://github.com/ThBreuer/ORB-Firmware/blob/main/Doc/ORB-API.html)
 
 ### Remote Application
 A remote application controls the ORB via the USB/Bluetooth interface protocol of the firmware. 
 
-[ORB-Firmware: Remote Application Interface Protocoll]()
+[ORB-Firmware: Remote Application Interface Protocoll](https://github.com/ThBreuer/ORB-Firmware/blob/main/Doc/Firmware-RemoteInterfaceProtocol.pdf)
 
 ## Tools
 
@@ -106,7 +106,7 @@ This app executes Javascript based applications provided by an external HTTP ser
 * Configuration options
 * Built-in test site to check sensors and actuators
 
-[ORB-WebView: Javascript Interface]()
+[ORB-WebView: Javascript Interface](/Software/ORB-WebView/Doc/JavascriptInterface.pdf)
 
 ## Content of the OpenRoboticBoard's Repositories
 
