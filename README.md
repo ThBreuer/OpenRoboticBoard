@@ -85,7 +85,7 @@ See [Firmware Specification](https://github.com/ThBreuer/ORB-Firmware/blob/main/
 The local application is a software, which can be loaded with the `ORB-Monitor (Windows)` to the ORB flash memory. Once loaded, the local application can be started/stopped by pressing a button either on the ORB or on the `ORB-Monitor`.
 The local application can use the firmware API to read sensors or to set motor and servo actions. Furthermore, the local application can receive key events from the virtual keyboard of the `ORB-Monitor` or can send text strings to the text field of the `ORB-Monitor`.
 
-[ORB-Firmware: Local Application API](https://github.com/ThBreuer/ORB-Firmware/blob/main/Doc/Firmware-LocalApplicationAPI.zip)
+[ORB-Firmware: Local Application API](https://github.com/ThBreuer/ORB-Application)
 
 ### Remote Application
 A remote application controls the ORB via the USB/Bluetooth interface protocol of the firmware. 
