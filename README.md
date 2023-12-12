@@ -102,14 +102,14 @@ This app is usefull to handle a local application.
 * Virtual keyboard and text output fields as local application's I/O 
 * Configuration options
 
-### ORB-WebView (Android-App)
+### ORB-Mobile (Android-App)
 This app executes Javascript based applications provided by an external HTTP server. The Javascript can communicate with the app to control the ORB via USB/Bluetooth. This way, the Javascript can read sensors and set actuators.
 
 * By default, the `Open Roberta Lab` page is loaded. Here you can program and run your own application.
 * Configuration options
 * Built-in test site to check sensors and actuators
 
-[ORB-WebView: Javascript Interface](https://github.com/ThBreuer/ORB-Mobile_Android/blob/main/Doc/JavascriptInterface.pdf)
+[ORB-Mobile: Javascript Interface](https://github.com/ThBreuer/ORB-Mobile_Android/blob/main/Doc/JavascriptInterface.pdf)
 
 ## Content of the OpenRoboticBoard's Repositories
 
