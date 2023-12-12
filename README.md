@@ -1,6 +1,15 @@
 # OpenRoboticBoard
 **An open source hardware and software package to control simple robots**
 
+## Content of the OpenRoboticBoard's Repositories
+
+* [`ORB-Hardware`](https://github.com/ThBreuer/ORB-Hardware): Schematics, CAD
+* [`ORB-Firmware`](https://github.com/ThBreuer/ORB-Firmware): A firmware for the ORB
+* [`ORB-Application`](https://github.com/ThBreuer/ORB-Application): Template to create own Applications for the ORB
+* [`ORB-Monitor_Windows`](https://github.com/ThBreuer/ORB-Monitor_Windows): Windows-Application monitoring the ORB (Local Application) 
+* [`ORB-Monitor_Android`](https://github.com/ThBreuer/ORB-Monitor_Android): Android-Application monitoring the ORB (Local Application)
+* [`ORB-Mobile_Android`](https://github.com/ThBreuer/ORB-Mobile_Android): Android-Application with a Javascript Interface to the ORB
+
 ## Features
 
 The board integrates the control electronics required to operate a robot. Sensors and actuators can be connected directly.
@@ -110,12 +119,3 @@ This app executes Javascript based applications provided by an external HTTP ser
 * Built-in test site to check sensors and actuators
 
 [ORB-Mobile: Javascript Interface](https://github.com/ThBreuer/ORB-Mobile_Android/blob/main/Doc/JavascriptInterface.pdf)
-
-## Content of the OpenRoboticBoard's Repositories
-
-* [`ORB-Hardware`](https://github.com/ThBreuer/ORB-Hardware): Schematics, CAD
-* [`ORB-Firmware`](https://github.com/ThBreuer/ORB-Firmware): A firmware for the ORB
-* [`ORB-Application`](https://github.com/ThBreuer/ORB-Application): Template to create own Applications for the ORB
-* [`ORB-Monitor_Windows`](https://github.com/ThBreuer/ORB-Monitor_Windows): Windows-Application monitoring the ORB (Local Application) 
-* [`ORB-Monitor_Android`](https://github.com/ThBreuer/ORB-Monitor_Android): Android-Application monitoring the ORB (Local Application)
-* [`ORB-Mobile_Android`](https://github.com/ThBreuer/ORB-Mobile_Android): Android-Application with a Javascript Interface to the ORB
