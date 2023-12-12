@@ -109,7 +109,7 @@ This app executes Javascript based applications provided by an external HTTP ser
 * Configuration options
 * Built-in test site to check sensors and actuators
 
-[ORB-WebView: Javascript Interface](/Software/ORB-WebView/Doc/JavascriptInterface.pdf)
+[ORB-WebView: Javascript Interface](https://github.com/ThBreuer/ORB-Mobile_Android/blob/main/Doc/JavascriptInterface.pdf)
 
 ## Content of the OpenRoboticBoard's Repositories
 
@@ -118,4 +118,4 @@ This app executes Javascript based applications provided by an external HTTP ser
 * [`ORB-Application`](https://github.com/ThBreuer/ORB-Application): Template to create own Applications for the ORB
 * [`ORB-Monitor_Windows`](https://github.com/ThBreuer/ORB-Monitor_Windows): Windows-Application monitoring the ORB (Local Application) 
 * [`ORB-Monitor_Android`](https://github.com/ThBreuer/ORB-Monitor_Android): Android-Application monitoring the ORB (Local Application)
-* [`ORB-WebView_Android`](https://github.com/ThBreuer/ORB-WebView_Android): Android-Application with a Javascript Interface to the ORB
+* [`ORB-Mobile_Android`](https://github.com/ThBreuer/ORB-Mobile_Android): Android-Application with a Javascript Interface to the ORB
