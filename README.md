@@ -6,7 +6,7 @@
 2. Install ![Notepad++](https://notepad-plus-plus.org)
 3. Install the ORB Notepad plugin: Copy directory `%ORB%\Tools\NotepadPlugin\OpenRoboticBoard` into `%PROG%\Notepad++\plugins`
 5. Load example `%ORB%\Example\MicroPython\Demo\demo.py`in Notepad++
-6. Compile an start application with Notepad++ menu 'Plugins'-`Open Robotic Board`-`Monitor` (or use the menu icon ...) 
+6. Compile an start application with Notepad++ menu *Plugins* - *Open Robotic Board* - *Monitor*, or use the menu icon ...
    
 
 ## Content of the OpenRoboticBoard's Repositories
