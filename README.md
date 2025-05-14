@@ -3,7 +3,7 @@
 
 ## Quick Start Guide (MicroPython)
 1. Download and install Software, Tools and Examples from ![OpenRoboticBoard.exe](https://github.com/ThBreuer/OpenRoboticBoard/blob/main/OpenRoboticBoard.exe)
-2. Install ![Notepad++](https://notepad-plus-plus.org)
+2. Install [Notepad++](https://notepad-plus-plus.org)
 3. Install the ORB Notepad plugin: Copy directory `%ORB%\Tools\NotepadPlugin\OpenRoboticBoard` into `%PROG%\Notepad++\plugins`
 5. Load example `%ORB%\Example\MicroPython\Demo\demo.py`in Notepad++
 6. Compile an start application with Notepad++ menu *Plugins* - *Open Robotic Board* - *Monitor*, or use the menu icon ...
